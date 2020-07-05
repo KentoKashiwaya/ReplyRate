@@ -1,0 +1,11 @@
+.undone {
+  width: 600px;
+  background-color: white;
+  color: green;
+  margin: 10px auto;
+  padding: 5px;
+}
+
+.done p {
+  display: none;
+}
